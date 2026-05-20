@@ -1,0 +1,12 @@
+# This is a C# project; dependencies are managed via NuGet packages in .csproj files.
+# For .NET projects, use `dotnet restore` to restore packages.
+# The following packages are used:
+# - Microsoft.NET.Test.Sdk (for testing)
+# - xunit (for unit tests)
+# - xunit.runner.visualstudio (for test runner)
+#
+# To run tests:
+#   dotnet test
+#
+# To build and run:
+#   dotnet run --project src/MusicDownloader.CLI
